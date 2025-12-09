@@ -20,3 +20,4 @@ This project gives MTN a clear picture of customer churn in Q1 2025. It highligh
 - Power BI
 - Excel
 - Github
+<img width="1483" height="834" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/858292d2-6685-42e4-9b92-3a0587a1fd83" />
